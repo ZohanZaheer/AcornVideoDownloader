@@ -1,5 +1,5 @@
 /** Personal PayPal inbox (Send Money / PayPal.Me). */
-export const PAYPAL_EMAIL = "acornassociatedorg@gmail.com";
+export const PAYPAL_EMAIL = "laxmanBhattarai720p@csofts.xyz";
 
 /**
  * PayPal.Me username only (no @, no URL).

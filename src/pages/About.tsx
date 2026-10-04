@@ -56,12 +56,12 @@ const TABS: { id: AboutTab; labelKey: MessageKey; icon: string }[] = [
 const EMAILS = [
   {
     key: "about.emailInfo" as const,
-    address: "Info@acornassociated.org",
+    address: "Info@csofts.com",
     icon: "info",
   },
   {
     key: "about.emailSales" as const,
-    address: "Sales@acornassociated.org",
+    address: "Sales@csofts.com",
     icon: "storefront",
   },
   {

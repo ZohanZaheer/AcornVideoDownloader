@@ -340,7 +340,7 @@ export const tr: Messages = {
   "about.formSending": "Gönderiliyor…",
   "about.formThanks": "Mesaj gönderildi. Teşekkürler!",
   "about.formError": "Mesaj gönderilemedi. Lütfen tekrar dene.",
-  "about.formActivate": "Tek seferlik kurulum: web3forms.com’a git, Support@acornassociated.org gir, e-postadaki Access Key’i kopyala ve uygulamadaki WEB3FORMS_ACCESS_KEY alanına yapıştır.",
+  "about.formActivate": "Tek seferlik kurulum: web3forms.com’a git, Support@csofts.com gir, e-postadaki Access Key’i kopyala ve uygulamadaki WEB3FORMS_ACCESS_KEY alanına yapıştır.",
   "about.formRequired": "Lütfen tüm alanları doldur.",
   "about.mailTitle": "İletişim mailleri",
   "about.mailLead": "Bir adrese tıklayarak e-posta gönder.",

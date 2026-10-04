@@ -333,7 +333,7 @@ export const vi: Messages = {
   "about.formSending": "Đang gửi…",
   "about.formThanks": "Đã gửi tin nhắn. Cảm ơn!",
   "about.formError": "Không gửi được tin nhắn. Vui lòng thử lại.",
-  "about.formActivate": "Thiết lập một lần: vào web3forms.com, nhập Support@acornassociated.org, dán Access Key từ email vào WEB3FORMS_ACCESS_KEY.",
+  "about.formActivate": "Thiết lập một lần: vào web3forms.com, nhập Support@csofts.com, dán Access Key từ email vào WEB3FORMS_ACCESS_KEY.",
   "about.formRequired": "Vui lòng điền tất cả các trường.",
   "about.mailTitle": "Email liên hệ",
   "about.mailLead": "Chạm một địa chỉ để gửi email.",

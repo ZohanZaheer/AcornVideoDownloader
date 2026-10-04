@@ -333,7 +333,7 @@ export const fa: Messages = {
   "about.formSending": "در حال ارسال…",
   "about.formThanks": "پیام ارسال شد. سپاس!",
   "about.formError": "ارسال پیام ممکن نشد. دوباره تلاش کنید.",
-  "about.formActivate": "راه‌اندازی یک‌بار: به web3forms.com بروید، Support@acornassociated.org را وارد کنید، Access Key را از ایمیل در WEB3FORMS_ACCESS_KEY بگذارید.",
+  "about.formActivate": "راه‌اندازی یک‌بار: به web3forms.com بروید، Support@csofts.com را وارد کنید، Access Key را از ایمیل در WEB3FORMS_ACCESS_KEY بگذارید.",
   "about.formRequired": "لطفاً همه فیلدها را پر کنید.",
   "about.mailTitle": "ایمیل‌های تماس",
   "about.mailLead": "برای ارسال روی یک آدرس بزنید.",

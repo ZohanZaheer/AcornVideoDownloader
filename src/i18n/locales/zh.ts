@@ -333,7 +333,7 @@ export const zh: Messages = {
   "about.formSending": "发送中…",
   "about.formThanks": "消息已发送。谢谢！",
   "about.formError": "无法发送消息。请重试。",
-  "about.formActivate": "一次性设置：打开 web3forms.com，输入 Support@acornassociated.org，把邮件里的 Access Key 填入 WEB3FORMS_ACCESS_KEY。",
+  "about.formActivate": "一次性设置：打开 web3forms.com，输入 Support@csofts.com，把邮件里的 Access Key 填入 WEB3FORMS_ACCESS_KEY。",
   "about.formRequired": "请填写所有字段。",
   "about.mailTitle": "联系邮箱",
   "about.mailLead": "点击地址发送邮件。",

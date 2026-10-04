@@ -333,7 +333,7 @@ export const ku: Messages = {
   "about.formSending": "Tê şandin…",
   "about.formThanks": "Peyam hat şandin. Spas!",
   "about.formError": "Peyam nehat şandin. Ji kerema xwe dîsa biceribîne.",
-  "about.formActivate": "Sazkirina carekê: here web3forms.com, Support@acornassociated.org binivîse, Access Key ji e-nameyê bigire û bike nav WEB3FORMS_ACCESS_KEY.",
+  "about.formActivate": "Sazkirina carekê: here web3forms.com, Support@csofts.com binivîse, Access Key ji e-nameyê bigire û bike nav WEB3FORMS_ACCESS_KEY.",
   "about.formRequired": "Ji kerema xwe hemû zeviyan tijî bike.",
   "about.mailTitle": "E-nameyên têkiliyê",
   "about.mailLead": "Ji bo şandinê li navnîşanekê bitikîne.",

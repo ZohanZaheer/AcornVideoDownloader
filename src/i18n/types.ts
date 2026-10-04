@@ -10,7 +10,8 @@ export type Locale =
   | "de"
   | "vi"
   | "ja"
-  | "zh";
+  | "zh"
+  | "ur";
 
 /** Flat dictionary of all UI strings. */
 export type Messages = {

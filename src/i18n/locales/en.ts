@@ -340,7 +340,7 @@ export const en: Messages = {
   "about.formSending": "Sending…",
   "about.formThanks": "Message sent. Thank you!",
   "about.formError": "Could not send the message. Please try again.",
-  "about.formActivate": "One-time setup: go to web3forms.com, enter Support@acornassociated.org, copy the Access Key from the email, and paste it into the app contact config (WEB3FORMS_ACCESS_KEY).",
+  "about.formActivate": "One-time setup: go to web3forms.com, enter Support@csofts.com, copy the Access Key from the email, and paste it into the app contact config (WEB3FORMS_ACCESS_KEY).",
   "about.formRequired": "Please fill in all fields.",
   "about.mailTitle": "Contact emails",
   "about.mailLead": "Tap an address to send an email.",

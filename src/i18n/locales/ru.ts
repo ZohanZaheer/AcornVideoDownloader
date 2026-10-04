@@ -333,7 +333,7 @@ export const ru: Messages = {
   "about.formSending": "Отправка…",
   "about.formThanks": "Сообщение отправлено. Спасибо!",
   "about.formError": "Не удалось отправить сообщение. Попробуйте снова.",
-  "about.formActivate": "Разовая настройка: зайдите на web3forms.com, укажите Support@acornassociated.org, вставьте Access Key из письма в WEB3FORMS_ACCESS_KEY.",
+  "about.formActivate": "Разовая настройка: зайдите на web3forms.com, укажите Support@csofts.com, вставьте Access Key из письма в WEB3FORMS_ACCESS_KEY.",
   "about.formRequired": "Заполните все поля.",
   "about.mailTitle": "Контактные почты",
   "about.mailLead": "Нажмите адрес, чтобы написать.",

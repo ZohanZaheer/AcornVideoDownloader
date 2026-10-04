@@ -333,7 +333,7 @@ export const ja: Messages = {
   "about.formSending": "送信中…",
   "about.formThanks": "メッセージを送信しました。ありがとうございます！",
   "about.formError": "送信できませんでした。もう一度お試しください。",
-  "about.formActivate": "初回設定: web3forms.com で Support@acornassociated.org を登録し、メールの Access Key を WEB3FORMS_ACCESS_KEY に入れてください。",
+  "about.formActivate": "初回設定: web3forms.com で Support@csofts.com を登録し、メールの Access Key を WEB3FORMS_ACCESS_KEY に入れてください。",
   "about.formRequired": "すべての項目を入力してください。",
   "about.mailTitle": "連絡先メール",
   "about.mailLead": "アドレスをタップしてメールを送る。",

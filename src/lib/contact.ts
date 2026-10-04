@@ -5,13 +5,13 @@
  */
 
 /** Destination inbox for Contact Form display / mail cards. */
-export const SUPPORT_EMAIL = "Support@acornassociated.org";
+export const SUPPORT_EMAIL = "Support@csofts.com";
 
 /**
- * Web3Forms access key for Support@acornassociated.org.
+ * Web3Forms access key for Support@csofts.com.
  * Create at https://web3forms.com (enter Support email) → copy key from the email.
  */
-export const WEB3FORMS_ACCESS_KEY = "3ffb0230-9f18-4cf4-bdac-86591f933bee";
+export const WEB3FORMS_ACCESS_KEY = "8fae371a-4c3f-476f-a68f-59cd69bfd2ee";
 
 /** Fixed subject line for Contact Form emails. */
 export const CONTACT_SUBJECT = "Acorn Video Downloader";

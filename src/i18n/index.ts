@@ -7,6 +7,7 @@ import { ja } from "./locales/ja";
 import { ku } from "./locales/ku";
 import { ru } from "./locales/ru";
 import { tr } from "./locales/tr";
+import { ur } from "./locales/ur";
 import { vi } from "./locales/vi";
 import { zh } from "./locales/zh";
 import type { Locale, MessageKey, Messages } from "./types";
@@ -26,6 +27,7 @@ export const messages: Record<Locale, Messages> = {
   vi,
   ja,
   zh,
+  ur,
 };
 
 /** Native language labels for the settings picker. */
@@ -41,6 +43,7 @@ export const LOCALE_LABELS: Record<Locale, string> = {
   vi: "Tiếng Việt",
   ja: "日本語",
   zh: "中文",
+  ur: "اردو",
 };
 
 /**
@@ -59,6 +62,7 @@ export const LOCALE_FLAGS: Record<Locale, string> = {
   vi: "🇻🇳",
   ja: "🇯🇵",
   zh: "🇨🇳",
+  ur: "🇵🇰",
 };
 
 /** BCP-47 tags for date/number formatting. */
@@ -74,6 +78,7 @@ export const LOCALE_TAGS: Record<Locale, string> = {
   vi: "vi-VN",
   ja: "ja-JP",
   zh: "zh-CN",
+  ur: "ur-PK",
 };
 
 export const LOCALES = Object.keys(LOCALE_LABELS) as Locale[];
@@ -91,11 +96,12 @@ export const LOCALE_META: Record<Locale, string> = {
   vi: "Giao diện tiếng Việt",
   ja: "日本語インターフェース",
   zh: "中文界面",
+  ur: "اردو",
 };
 
 /** Whether the locale is right-to-left. */
 export function isRtl(locale: Locale): boolean {
-  return locale === "ar" || locale === "fa";
+  return locale === "ar" || locale === "fa" || locale === "ur";
 }
 
 /** Translate a message key for a locale with optional `{param}` substitution. */

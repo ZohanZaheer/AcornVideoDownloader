@@ -55,13 +55,13 @@ type SheetId = "donate" | "social" | "form" | "mail" | null;
 const EMAILS = [
   {
     key: "about.emailInfo" as const,
-    address: "Info@acornassociated.org",
+    address: "Info@csofts.com",
     icon: "info",
     color: "#033d8c",
   },
   {
     key: "about.emailSales" as const,
-    address: "Sales@acornassociated.org",
+    address: "Sales@csofts.com",
     icon: "storefront",
     color: "#145425",
   },

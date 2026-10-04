@@ -333,7 +333,7 @@ export const fr: Messages = {
   "about.formSending": "Envoi…",
   "about.formThanks": "Message envoyé. Merci !",
   "about.formError": "Impossible d’envoyer le message. Réessayez.",
-  "about.formActivate": "Configuration unique : allez sur web3forms.com, entrez Support@acornassociated.org, copiez l’Access Key reçu par e-mail dans WEB3FORMS_ACCESS_KEY.",
+  "about.formActivate": "Configuration unique : allez sur web3forms.com, entrez Support@csofts.com, copiez l’Access Key reçu par e-mail dans WEB3FORMS_ACCESS_KEY.",
   "about.formRequired": "Veuillez remplir tous les champs.",
   "about.mailTitle": "E-mails de contact",
   "about.mailLead": "Touchez une adresse pour écrire.",

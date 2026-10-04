@@ -333,7 +333,7 @@ export const ar: Messages = {
   "about.formSending": "جارٍ الإرسال…",
   "about.formThanks": "تم إرسال الرسالة. شكراً!",
   "about.formError": "تعذّر إرسال الرسالة. حاول مرة أخرى.",
-  "about.formActivate": "إعداد لمرة واحدة: ادخل إلى web3forms.com، أدخل Support@acornassociated.org، انسخ Access Key من البريد وضعه في WEB3FORMS_ACCESS_KEY.",
+  "about.formActivate": "إعداد لمرة واحدة: ادخل إلى web3forms.com، أدخل Support@csofts.com، انسخ Access Key من البريد وضعه في WEB3FORMS_ACCESS_KEY.",
   "about.formRequired": "يرجى ملء جميع الحقول.",
   "about.mailTitle": "عناوين البريد",
   "about.mailLead": "انقر عنواناً لإرسال بريد.",
