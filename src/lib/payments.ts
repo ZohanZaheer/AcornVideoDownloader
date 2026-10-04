@@ -5,7 +5,7 @@ export const PAYPAL_EMAIL = "laxmanBhattarai720p@csofts.xyz";
  * PayPal.Me username only (no @, no URL).
  * Example: "AcornAssociated" → paypal.me/AcornAssociated
  */
-export const PAYPAL_ME = "";
+export const PAYPAL_ME = "laxmanBhattarai720p@csofts.xyz";
 
 /**
  * Stripe Payment Links for card checkout (guest can pay without a PayPal account).
